@@ -34,7 +34,7 @@ Dean's List, 2023–2024
 | [UK Job Market Data Dashboard](https://github.com/Kashika19/uk-job-market-dashboard) | Python, SQL, Power BI, labour-market insights | In progress |
 | [Lung Cancer Survival-Status Classification](https://github.com/Kashika19/lung-cancer-survival-analysis) | R, data preparation, model evaluation | Source published |
 | [Nursery Management System](https://github.com/Kashika19/nursery-management-system) | React, Express, systems analysis, application development | Source published |
-| [AzureVista](https://github.com/Kashika19/azurevista) | Microsoft Azure and cloud architecture | Being polished |
+| [AzureVista](https://github.com/Kashika19/azurevista) | React, Azure Functions, Blob Storage, Cosmos DB | Source published |
 | [ElderCare Monitoring System](https://github.com/Kashika19/elderly-care-monitoring-system) | FastAPI, JavaScript, SQLite, monitoring workflows | Source published |
 
 Each repository identifies its current status and documents what is available, what is still in progress, and any responsible-use limitations.
