@@ -35,7 +35,7 @@ Dean's List, 2023–2024
 | [Lung Cancer Survival Analysis](https://github.com/Kashika19/lung-cancer-survival-analysis) | R, statistical analysis, data visualisation | Being polished |
 | [Nursery Management System](https://github.com/Kashika19/nursery-management-system) | React, Express, systems analysis, application development | Source published |
 | [AzureVista](https://github.com/Kashika19/azurevista) | Microsoft Azure and cloud architecture | Being polished |
-| [Elderly Care Monitoring System](https://github.com/Kashika19/elderly-care-monitoring-system) | Requirements, system design, monitoring workflows | Being polished |
+| [ElderCare Monitoring System](https://github.com/Kashika19/elderly-care-monitoring-system) | FastAPI, JavaScript, SQLite, monitoring workflows | Source published |
 
 Each repository clearly identifies its current status. Code, documentation, diagrams, dashboards, and results will be added as the projects are reviewed and developed.
 
