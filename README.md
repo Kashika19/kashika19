@@ -2,6 +2,8 @@
 
 Computing Systems graduate based in London, building practical projects across data analysis, systems development, and cloud technology.
 
+[LinkedIn](https://www.linkedin.com/in/kashika-sharma-14100b244)
+
 ## What I'm working toward
 
 I'm seeking graduate and junior opportunities in:
@@ -10,6 +12,13 @@ I'm seeking graduate and junior opportunities in:
 - Systems and business analysis
 - Cloud and application support
 - Junior software development
+
+## Education
+
+**BSc (Hons) Computing Systems — Upper Second-Class Honours (2:1)**  
+Ulster University, London  
+Awarded December 2025 · Graduation ceremony June 2026  
+Dean's List, 2023–2024
 
 ## Technical toolkit
 
@@ -24,7 +33,7 @@ I'm seeking graduate and junior opportunities in:
 |---|---|---|
 | [UK Job Market Data Dashboard](https://github.com/Kashika19/uk-job-market-dashboard) | Python, SQL, Power BI, labour-market insights | In progress |
 | [Lung Cancer Survival Analysis](https://github.com/Kashika19/lung-cancer-survival-analysis) | R, statistical analysis, data visualisation | Being polished |
-| [Nursery Management System](https://github.com/Kashika19/nursery-management-system) | Systems analysis, database design, application development | Being polished |
+| [Nursery Management System](https://github.com/Kashika19/nursery-management-system) | React, Express, systems analysis, application development | Source published |
 | [AzureVista](https://github.com/Kashika19/azurevista) | Microsoft Azure and cloud architecture | Being polished |
 | [Elderly Care Monitoring System](https://github.com/Kashika19/elderly-care-monitoring-system) | Requirements, system design, monitoring workflows | Being polished |
 
