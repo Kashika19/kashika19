@@ -37,7 +37,7 @@ Dean's List, 2023–2024
 | [AzureVista](https://github.com/Kashika19/azurevista) | Microsoft Azure and cloud architecture | Being polished |
 | [ElderCare Monitoring System](https://github.com/Kashika19/elderly-care-monitoring-system) | FastAPI, JavaScript, SQLite, monitoring workflows | Source published |
 
-Each repository clearly identifies its current status. Each repository identifies its current status and documents what is available, what is still in progress, and any responsible-use limitations.
+Each repository identifies its current status and documents what is available, what is still in progress, and any responsible-use limitations.
 
 ## Current focus
 
