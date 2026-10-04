@@ -22,13 +22,13 @@ I'm seeking graduate and junior opportunities in:
 
 | Project | Focus | Status |
 |---|---|---|
-| UK Job Market Data Dashboard | Python, SQL, Power BI, labour-market insights | In progress |
-| Lung Cancer Survival Analysis | R, statistical analysis, data visualisation | Being polished |
-| Nursery Management System | Systems analysis, database design, application development | Being polished |
-| AzureVista | Microsoft Azure and cloud architecture | Being polished |
-| Elderly Care Monitoring System | Requirements, system design, monitoring workflows | Being polished |
+| [UK Job Market Data Dashboard](https://github.com/Kashika19/uk-job-market-dashboard) | Python, SQL, Power BI, labour-market insights | In progress |
+| [Lung Cancer Survival Analysis](https://github.com/Kashika19/lung-cancer-survival-analysis) | R, statistical analysis, data visualisation | Being polished |
+| [Nursery Management System](https://github.com/Kashika19/nursery-management-system) | Systems analysis, database design, application development | Being polished |
+| [AzureVista](https://github.com/Kashika19/azurevista) | Microsoft Azure and cloud architecture | Being polished |
+| [Elderly Care Monitoring System](https://github.com/Kashika19/elderly-care-monitoring-system) | Requirements, system design, monitoring workflows | Being polished |
 
-Project repositories and case studies will be linked here as they are published.
+Each repository clearly identifies its current status. Code, documentation, diagrams, dashboards, and results will be added as the projects are reviewed and developed.
 
 ## Current focus
 
